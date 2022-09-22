@@ -9,7 +9,7 @@ My background is linked to QC, but my heart is linked to dev world 💻.
 - Pasionate learner with a creative mind 📚.
 - Problem solver 🧩.
 - I’m currently working on a dice app & random number generator 🔭 (tabletop rpg enjoyer here!)
-- Contact me via <i>pabloppg1992@gmail.com</i> or Linkedin &nbsp;<a href="https://www.linkedin.com/in/pablo-pe%C3%B1alver-guzm%C3%A1n-58612a251/" target="blank"><img align="end"
+- Contact me via <i>pabloppg.tech@gmail.com</i> or Linkedin &nbsp;<a href="https://www.linkedin.com/in/pablo-pe%C3%B1alver-guzm%C3%A1n-58612a251/" target="blank"><img align="end"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Pablo Peñalver LinkedIn"
       width="14"/></a> 📬
