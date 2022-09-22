@@ -4,7 +4,7 @@ My name's Pablo, a Front-End Web Developer 😊.
 
 I Currently live close to Barcelona, in a small town called Vacarisses (🌳Love rural lifestyle🌳).
 
-My background is linked to QC, but my heart is linked to dev world 💻.
+My background is linked to QC, but my heart is in love with dev world 💻.
 
 - Pasionate learner with a creative mind 📚.
 - Problem solver 🧩.
